@@ -1,7 +1,5 @@
 # About me
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on game development
 - 🌱 I’m currently learning _python_ & **C++**
 - 💬 Ask me about **procastination** & _anxiety_
